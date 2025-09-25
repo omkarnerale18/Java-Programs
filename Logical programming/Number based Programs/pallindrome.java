@@ -1,4 +1,4 @@
- class pallindrome {
+class pallindrome {
     static void reverse(int n)
     {   
         int num=n;
